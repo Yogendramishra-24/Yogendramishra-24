@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yogendra Mishra 👋
 
-<!--
-**Yogendramishra-24/Yogendramishra-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Spring Boot | System Design | DSA Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend Developer with strong knowledge in **Java, Spring Boot, Microservices**
+* Solved **DSA problems regularly (LeetCode / Interview prep)**
+* Building scalable backend systems and real-world projects
+* Actively preparing for **MAANG / FAANG level backend roles**
+
+## 🛠 Tech Stack
+
+* **Languages:** Java, SQL, JavaScript
+* **Backend:** Spring Boot, Hibernate, REST APIs
+* **Database:** MySQL, PostgreSQL
+* **Tools:** Git, Docker, Maven
+* **Concepts:** System Design, Multithreading, Collections, OOP
+
+## 📌 Featured Projects
+
+* **User Authentication System** – JWT, Spring Security, Role-based access
+* **Show Booking System** – Scalable booking backend with concurrency handling
+* **Dynamic Programming Solutions** – Optimized solutions for interview problems
+
+## 📊 Coding Profiles
+
+* LeetCode: (https://leetcode.com/u/YogendraMishra18/)
+* LinkedIn: www.linkedin.com/in/yogendramishra-sde
+
+## 📫 Contact
+
+* Email: ysmishra8534@gmail.com
+* LinkedIn:  www.linkedin.com/in/yogendramishra-sde
+
